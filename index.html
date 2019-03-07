@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	<div id="main">
+		<canvas id="main_canvas_0" width="100%" height="100%"></canvas>
+	</div>
+
+	<div id="sub">
+		<h2>IK Sample by Three.js(WebGL)</h2>
+		<h3>モデルのダウンロード状況</h3>
+		<p id="result"></p>
+		<h3>使い方</h3>
+		<p>青いキューブを左クリックで選択すると赤くなります。赤いキューブを左ドラッグすると動かすことができます。逆算されて腕や足も動きます。</p>
+		<p>右ドラッグ：カメラ回転</p>
+		<h3>動作確認</h3>
+		<p>Google Chrome (Safariではセキュリティ関連でモデルのロードが止まるかもしれません)</p>
+		<h3>ソースコード</h3>
+		<a href="https://github.com/yosipy/Threejs_IK_Sample">https://github.com/yosipy/Threejs_IK_Sample</a>
+	</div>
+
+	<!-- three.jsを読み込む -->
+	<script src="js/threejs/three.min.js"></script>
+	<script src="js/threejs/GLTFLoader.js"></script>
+	<script src="js/threejs/OrbitControls.js"></script>
+	<!-- index.jsを読み込む -->
+	<script src="js/ik_controller.js"></script>
+	<script src="js/ik.js"></script>
+	<script src="js/skeleton.js"></script>
+	<script src="js/context.js"></script>
+	<script src="js/index.js"></script>
+</body>
+</html>
