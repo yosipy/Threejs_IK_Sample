@@ -4,7 +4,6 @@ IKのサンプルです。
 
 
 このプログラムはライブラリとして下記のThree.jsを使用しています。
-
 https://github.com/mrdoob/three.js
 
 Copyright © 2010-2019 three.js authors
