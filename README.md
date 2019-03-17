@@ -13,6 +13,9 @@ https://demo.codelabo.com/threejs_ik/
 https://codelabo.com/1268/
 
 
+***********************************************************
+
+
 このプログラムはライブラリとして下記のThree.jsを使用しています。
 
 https://github.com/mrdoob/three.js
