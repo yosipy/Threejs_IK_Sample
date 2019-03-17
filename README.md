@@ -3,6 +3,16 @@
 IKのサンプルです。
 
 
+デモです。
+
+https://demo.codelabo.com/threejs_ik/
+
+
+技術的なまとめ。
+
+https://codelabo.com/1268/
+
+
 このプログラムはライブラリとして下記のThree.jsを使用しています。
 
 https://github.com/mrdoob/three.js
