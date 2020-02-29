@@ -5,7 +5,7 @@ IKのサンプルです。
 
 デモです。
 
-https://demo.codelabo.com/threejs_ik/
+https://yosipy.github.io/Threejs_IK_Sample/
 
 
 技術的なまとめ。
