@@ -21,7 +21,8 @@ function init() {
 
     // Load GLTF or GLB
     //const url = 'http://localhost/Three.js_sample_ik/test.glb';
-    const url = 'https://yosipy.github.io/Threejs_IK_Sample/test.glb';
+    //const url = 'https://yosipy.github.io/Threejs_IK_Sample/test.glb';
+    const url = 'test.glb';
     load_gltf_model('Model_Girl', url, scene);
 
     
