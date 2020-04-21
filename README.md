@@ -16,7 +16,7 @@ https://codelabo.com/posts/20200229090229
 
 ご自由にお使いください。
 
-Copyright © 2010-2019 yosipy
+Copyright © 2010-2020 yosipy
 
 Released under the MIT license
 
