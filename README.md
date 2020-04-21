@@ -10,8 +10,17 @@ https://yosipy.github.io/Threejs_IK_Sample/
 
 技術的なまとめ。
 
-https://codelabo.com/1268/
+https://codelabo.com/posts/20200229090229
 
+このプログラムはMitライセンスで公開いたします。
+
+ご自由にお使いください。
+
+Copyright © 2010-2019 yosipy
+
+Released under the MIT license
+
+https://opensource.org/licenses/mit-license.php
 
 ***********************************************************
 
