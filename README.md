@@ -1,15 +1,14 @@
 # Threejs_IK_Sample
 
-IKのサンプルです。
+IK （ Inverse Kinematics ）を用いて3d人体モデルを動かすサンプルです。
 
 
-デモです。
 
+- デモです。
 https://yosipy.github.io/Threejs_IK_Sample/
 
 
-技術的なまとめ。
-
+- 技術的なまとめ。
 https://codelabo.com/posts/20200229090229
 
 このプログラムはMitライセンスで公開いたします。
