@@ -1,6 +1,6 @@
 # Threejs_IK_Sample
 
-IK （ Inverse Kinematics ）を用いて3d人体モデルを動かすサンプルです。
+IK （ Inverse Kinematics ）を用いて3d人体モデル(GLSL)を動かすサンプルです。
 
 今回実装したアルゴリズムはある程度うまく動いてますが、思い通り動かすにはもっと工夫が必要そうです。
 
