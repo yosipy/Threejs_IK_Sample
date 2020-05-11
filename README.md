@@ -1,6 +1,6 @@
 # Threejs_IK_Sample
 
-IK （ Inverse Kinematics ）を用いて3d人体モデル(Vrm)を動かすサンプルです。
+IK （ Inverse Kinematics ）を用いて3d人体モデル(Vrm,gltf,glb)を動かすサンプルです。
 
 今回実装したアルゴリズムはある程度うまく動いてますが、思い通り動かすにはもっと工夫が必要そうです。
 
