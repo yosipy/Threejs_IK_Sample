@@ -6,6 +6,7 @@ IK （ Inverse Kinematics ）を用いて3d人体モデル(Vrm,gltf,glb)を動�
 
 
 
+
 - デモです。
 https://yosipy.github.io/Threejs_IK_Sample/
 
